@@ -1,0 +1,25 @@
+**Difference between Lists and Tuples**
+
+Mutability:
+Lists are mutable, meaning you can change their elements after creation.
+Tuples are immutable, meaning once they are created, their elements cannot be changed.
+
+Syntax:
+Lists are defined using square brackets: list_example = [1, 2, 3].
+Tuples are defined using parentheses: tuple_example = (1, 2, 3).
+
+Performance:
+Tuples are generally faster than lists because of their immutability.
+Lists are slower compared to tuples due to their dynamic nature.
+
+Memory Usage:
+Tuples use less memory than lists.
+Lists consume more memory because they are mutable and can grow dynamically.
+
+Methods:
+Lists have several built-in methods like append(), remove(), pop(), etc.
+Tuples have fewer built-in methods, mainly for counting and finding elements.
+
+Use Cases:
+Lists are suitable for collections of items that may need to be modified.
+Tuples are suitable for collections of items that should not change, ensuring data integrity.

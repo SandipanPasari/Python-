@@ -1,0 +1,1 @@
+Welcome to the Python Learning Repository! This repository is dedicated to covering fundamental and advanced topics in Python over the next 1.5 years. Our aim is to provide a comprehensive resource for learning Python, Pytest, Django, and data science libraries like NumPy and pandas.
